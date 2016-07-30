@@ -1,6 +1,6 @@
 <?php
 /*
- * How - The program that powers howCode.org
+ * howCode Web Crawler Tutorial Series Source Code
  * Copyright (C) 2016
  *
  * This program is free software: you can redistribute it and/or modify
